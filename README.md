@@ -1,2 +1,3 @@
 # hello-world
-practicing the github flow
+i love hyenas!
+but... I'm still practicing the github flow...
